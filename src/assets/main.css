@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #f5f4f2;
+}
+
+.banner-div{
+    background-image: url(../assets/images.jpg), linear-gradient(to right, rgba(69, 56, 56, 0.96) , rgba(255, 255, 0, 0));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-position: center;
+}

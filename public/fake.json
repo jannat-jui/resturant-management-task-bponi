@@ -1,0 +1,320 @@
+[
+    {
+        "categoryName": "Новинки",
+        "image": "https://i.ibb.co/gS4pzXp/2.jpg",
+        "price": 690,
+        "name": "Крокетсы большие",
+        "size": ""
+    },
+    {
+        "categoryName": "Новинки",
+        "image": "https://i.ibb.co/g6B7nD9/1.jpg",
+        "price": 590,
+        "name": "Крокетсы стандартные",
+        "size": ""
+    },
+    {
+        "categoryName": "Новинки",
+        "image": "https://i.ibb.co/XXbc2cs/3.jpg",
+        "price": 1300,
+        "name": "Баскет Крокетсов",
+        "size": ""
+    },
+    
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/ryZWp07/1-10.jpg",
+        "price": 8350,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/NVC332K/2.jpg",
+        "price": 10200,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/mFzbjQ9/3.jpg",
+        "price": 8650,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/VD34Bc8/4.jpg",
+        "price": 10390,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/f94QgVp/5.jpg",
+        "price": 3550,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/MSqmtbd/6.jpg",
+        "price": 3550,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/ryZWp07/1-10.jpg",
+        "price": 8350,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/gypW4V2/images-1.jpg",
+        "price": 3500,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/gypW4V2/images-1.jpg",
+        "price": 3500,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/ryZWp07/1-10.jpg",
+        "price": 8350,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Комбо Баскеты",
+        "image": "https://i.ibb.co/gypW4V2/images-1.jpg",
+        "price": 3500,
+        "name": "Баскет 4 ножки Комбо",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 3000,
+        "name": "Чизбургер Бокс",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 3950,
+        "name": "Сандерс Мега Бургер Бокс",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 3200,
+        "name": "Шефбургер Бокс",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 3700,
+        "name": "Шеф Тауэр Бокс",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 3900,
+        "name": "Дабл Шефбургер Бокс",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 3450,
+        "name": "Твистер Кебаб Бокс",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 3700,
+        "name": "Боксмастер Бокс",
+        "size": ""
+    },
+    {
+        "categoryName": "Боксы",
+        "image": "https://i.ibb.co/mzFrqrx/medium-4332.jpg",
+        "price": 320,
+        "name": "Твистер Бокс",
+        "size": ""
+    },
+
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/8jGS69q/1.jpg",
+        "price":150 ,
+        "name": "Соус Кисло-сладкий",
+        "size": "25g"
+    },
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/TtxBZGC/2.jpg",
+        "price": 150,
+        "name": "Соус Барбекю",
+        "size": "25g"
+    },
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/q9fS26S/3.jpg",
+        "price": 150 ,
+        "name": "Соус Чесночный",
+        "size": "25g"
+    },
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/7rnYTnb/4.jpg",
+        "price": 150,
+        "name": "Соус Терияки",
+        "size": "25g"
+    },
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/wWYKMYb/5.jpg",
+        "price": 150,
+        "name": "Кетчуп",
+        "size": "25g"
+    },
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/1mq6Q5n/6.jpg",
+        "price": 150,
+        "name": "Соус Сырный",
+        "size": "25g"
+    },
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/ZzB3p0R/7.jpg",
+        "price": 200,
+        "name": "Булочка",
+        "size": ""
+    },
+    {
+        "categoryName": "Дополнительно",
+        "image": "https://i.ibb.co/4fbRYD4/8.jpg",
+        "price": 150,
+        "name": "Сыр",
+        "size": ""
+    },
+    {
+        "categoryName": "Сочная курочка",
+        "image": "https://i.ibb.co/NYy7D3c/164640f3cd2f36cc9596b424fce01a51-216x188.jpg",
+        "price": 1800,
+        "name": "Стрипсы 5 шт",
+        "size": ""
+    },
+    {
+        "categoryName": "Сочная курочка",
+        "image": "https://i.ibb.co/NYy7D3c/164640f3cd2f36cc9596b424fce01a51-216x188.jpg",
+        "price": 1800,
+        "name": "Стрипсы 5 шт",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/XjXbXGj/1.jpg",
+        "price": 2350,
+        "name": "Байтс баскет",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/m6KJ3WC/2.jpg",
+        "price": 1450,
+        "name": "Байтс & Фри",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/Zgq8L84/3-8.jpg",
+        "price": 690,
+        "name": "Картофель фри большой",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/2kk3BfX/4.jpg",
+        "price": 1100,
+        "name": "Баскет фри",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/5YxJf7f/5.png",
+        "price": 1800,
+        "name": "Хашбраун",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/9rbHZsP/6-7.jpg",
+        "price": 990,
+        "name": "Наггетсы 6 шт",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/9rbHZsP/6-7.jpg",
+        "price": 1800,
+        "name": "Наггетсы 6 шт",
+        "size": ""
+    },
+    {
+        "categoryName": "Снэки",
+        "image": "https://i.ibb.co/Zgq8L84/3-8.jpg",
+        "price": 690,
+        "name": "Картофель фри большой",
+        "size": ""
+    },
+    {
+        "categoryName": "Напитки",
+        "image": "https://i.ibb.co/gv9HBZK/117016b98f20937537c63aa4e9ba67b4-216x188.jpg",
+        "price": 550,
+        "name": "Lipton Ice Tea",
+        "size": "500ml"
+    },
+    {
+        "categoryName": "Напитки",
+        "image": "https://i.ibb.co/fC3g1bt/a1448559bbc36d30aa28abed32e004dd-216x188.jpg",
+        "price": 550,
+        "name": "Pepsi",
+        "size": "500ml"
+    },
+    {
+        "categoryName": "Напитки",
+        "image": "https://i.ibb.co/c2PpJpr/61bf0e5f20c612432eac2e67c2802d72-216x188.jpg",
+        "price": 400,
+        "name": "Вода Asu",
+        "size": "500ml"
+    },
+    {
+        "categoryName": "Напитки",
+        "image": "https://i.ibb.co/sg00M1W/7953b36310ac25f98a33d7484a020765-216x188.jpg",
+        "price": 400,
+        "name": "Вода Asu",
+        "size": "500ml"
+    },
+    {
+        "categoryName": "Напитки",
+        "image": "https://i.ibb.co/vh8CCp1/b45559004b6a10c4f1057dadd2a5d181-216x188.jpg",
+        "price": 550,
+        "name": "Pepsi Zero",
+        "size": "500ml"
+    }
+
+]
