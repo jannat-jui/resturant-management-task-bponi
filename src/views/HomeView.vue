@@ -65,15 +65,6 @@
           <img src="https://avatars.mds.yandex.net/get-bunker/61205/a11b38948b6d328e2f739d602fa36b15b2680ba8/svg" alt="">
           <h1 class="text-2xl text-center font-semibold">Your cart is currently empty</h1>
 
-          <div class="flex justify-center items-center flex-col gap-6">
-            <!-- Display cart items -->
-            <div v-for="item in cart" :key="item.name">
-              <img :src="item.image" alt="Product Image" class="w-full h-16 object-cover mb-2">
-              <h3 class="text-xl font-semibold">{{ item.name }}</h3>
-              <p class="text-gray-600">{{ item.price }}</p>
-            </div>
-          </div>
-
         </div>
 
         <div class="px-4 pb-8">
@@ -83,8 +74,8 @@
               <img class="w-[2rem]" src="../assets/walking.png" alt="">
             </div>
             <div>
-              <p class="text-red-700 text-lg">Адрес вне зоны доставки</p>
-              <p class="text-lg">Доставка недоступна</p>
+              <p class="text-red-700 2xl:text-lg">Адрес вне зоны доставки</p>
+              <p class="2xl:text-lg">Доставка недоступна</p>
             </div>
           </div>
         </div>
